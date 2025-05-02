@@ -19,6 +19,11 @@ https://youtube.com/watch?v=aatEQRJK6ms&si=_2m0M8UZw8fXlips
 https://youtube.com/watch?v=ECY7txi92dc&si=qlV06TfxUw3THByX
 https://youtube.com/watch?v=pWzstvXQ7l8&si=y7iPMTOdzeGgOdqc
 
+-- 추출
+유투브 영어스크립트를 추출했어. 영어원서 SURVIVING THE APPLEWHITES를 읽는 수준의 수업을 진행하고 있는데, 아래 스크립트에서 학습이 필요한 영어 단어를 [단어-문장내의 한글 뜻]으로 추출해줘. 
+1. 단어장으로 만들어줘 2. 스크립트내에 문장으로 답을 할 수 있도록 영문 주관식 10문제 작성해줘 3. 문장어순 문제를 10문제 작성해줘. (문제 / 공란 / 한글해석)
+       1. 단어장은 단어-뜻 표 아닌 텍스트로 작성해주고2. 영문 주관식은 스크립트를 알아야 답할 수 있는 질문을 주관식으로 만들어줘. 공란 채우기 말고, 그리고 답은 각 질문이 아니라 리스트 가장 하단에 작성해줘 3. 문장 어순 배열 문제는 난이도를 올려서 작성해 주고, 마친가지로 답은 리스트 가장 하단에 작성해줘
+
 -- detail 
 https://youtu.be/gx1DHHrxE6k?si=51k_nFpRXEQb3MvQ
     (54) Why Restaurant Chains Are Making A Comeback | CNBC Marathon - YouTube
@@ -117,6 +122,106 @@ https://youtu.be/gx1DHHrxE6k?si=51k_nFpRXEQb3MvQ
     (29:33) $5 meal a bridge value program, and then what we'll be doing is putting in place a more permanent value program, much like we had previously. Some restaurant analysts expect the value menus to slowly disappear as they normally do, but in their place will remain meal deals like Wendy's popular for for
     (29:50) four or Taco Bell's Cravings box. You know, it's just going to be a consistent battle for market share. I wouldn't expect dramatic changes in results from Q2 to Q3 just given the demand environment. And so what we're really going to be looking for is which restaurants, which companies can resonate most with,
     (30:08) with consumers and therefore outpace the rest of the industry.
+
+## 1. 단어장 (텍스트 형식)
+
+* **moving**: 이사하는
+* **favor**: 부탁
+* **lend a hand**: 도움을 주다
+* **pick up**: 태우다, 데리러 가다
+* **truck**: 트럭
+* **heavy**: 무거운
+* **couch**: 소파
+* **upstairs**: 위층으로
+* **struggle**: 애쓰다, 힘들어하다
+* **appreciate**: 고맙게 여기다
+* **schedule**: 일정
+* **drop off**: 내려주다
+
+## 2. 영문 주관식 문장형 문제 (스크립트 이해 기반, 공란 아님)
+
+1. What favor did the speaker ask his friend to do this weekend?
+2. Why did the speaker say the couch was hard to move?
+3. How did the speaker feel about his friend's help?
+4. At what time did the speaker ask to be picked up?
+5. What was the reason the speaker couldn’t help earlier in the day?
+6. What made the boxes unexpectedly difficult to carry?
+7. Where did the speaker want to be dropped off after helping?
+8. What expression did the speaker use to thank the friend?
+9. What problem did they encounter while moving furniture upstairs?
+10. Why was a truck necessary for the move?
+
+**답안 (Answers):**
+1. Help with moving.
+2. Because it was heavy and had to be carried upstairs.
+3. He appreciated it a lot.
+4. 9 a.m.
+5. His schedule was packed.
+6. They were heavier than expected.
+7. At the subway station.
+8. “I really appreciate your help.”
+9. They struggled due to the couch’s size and weight.
+10. To move big furniture and boxes.
+
+
+## 3. 문장 어순 배열 문제 (상급 난이도 / 한글 해석 포함)
+
+1. ( asked / help / to / he / for / weekend / moving / the / me / on )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (그는 주말에 이사 도와달라고 나에게 부탁했다.)
+
+2. ( schedule / because / I / couldn’t / help / my / was / earlier / packed )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (내 일정이 꽉 차 있어서 아까는 도와줄 수 없었어.)
+
+3. ( appreciate / help / really / your / I / today / do )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (오늘 너의 도움 정말 고마워.)
+
+4. ( friend / truck / a / rented / my / the / from / station / rental )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (내 친구가 렌터카 대여소에서 트럭을 빌렸다.)
+
+5. ( heavier / expected / be / turned / than / to / boxes / the / out )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (상자들이 예상보다 무겁다는 게 밝혀졌어.)
+
+6. ( we / manage / the / couch / to / upstairs / didn’t / get )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (우리는 그 소파를 위층으로 옮기지 못했어.)
+
+7. ( down / tired / both / were / after / we / moving / so )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (우린 이사한 뒤 둘 다 너무 지쳐 있었어.)
+
+8. ( gave / friend / a / hand / my / lending / me / by / helped )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (내 친구는 나를 도와줌으로써 손을 빌려줬다.)
+
+9. ( wasn’t / simple / as / as / the / expected / move / I )
+   → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   (이사는 내가 예상한 만큼 간단하지 않았다.)
+
+10. ( subway / at / me / drop / station / off / please / the )
+    → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    (지하철역에서 나 좀 내려줘.)
+
+**답안 (Answers):**
+
+1. He asked me to help with the moving on the weekend.
+2. I couldn’t help earlier because my schedule was packed.
+3. I really do appreciate your help today.
+4. My friend rented a truck from the rental station.
+5. The boxes turned out to be heavier than expected.
+6. We didn’t manage to get the couch upstairs.
+7. We were both so tired after moving down.
+8. My friend helped me by lending a hand.
+9. The move wasn’t as simple as I expected.
+10. Please drop me off at the subway station.
+
+---
+
+필요하다면 이 자료를 PDF 또는 워드 파일로 정리해드릴 수도 있습니다. 원하시나요?
 
 https://youtu.be/ojNm2TxqfN4?si=kbDI7bCB52r5j0To
     Why are there millions of empty houses in Japan? - The Global Story podcast, BBC World Service - YouTube
